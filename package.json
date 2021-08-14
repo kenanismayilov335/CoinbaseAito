@@ -1,0 +1,21 @@
+{
+  "name": "new-invite-bot",
+  "version": "1.0.0",
+  "description": "telegram invite bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "silent works",
+  "license": "ISC",
+  "dependencies": {
+    "@grammyjs/router": "^1.0.6",
+    "bull": "^3.22.4",
+    "coinbase": "^2.0.8",
+    "express": "^4.17.1",
+    "grammy": "^0.6.0",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.13",
+    "@grammyjs/runner": "^1.0.2"
+  }
+}

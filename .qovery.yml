@@ -1,0 +1,11 @@
+---
+application:
+  name: "coinbasesi"
+  project: "Coinbasesi"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-coinbasesi"
+  routes:
+  - application_name: "coinbasesi"
+    paths:
+    - "/*"
