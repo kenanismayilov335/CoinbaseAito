@@ -1,1 +1,1 @@
-worker: python nobitanobi.py
+worker: node index.js
